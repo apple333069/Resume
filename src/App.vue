@@ -6,7 +6,7 @@
         <div class="business-card">
           <div class="card-avatar">
             <div class="avatar-circle">
-              <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/a42f1e83fdb6809384f2461670a1d81e227df05c.png" alt="頭像" class="avatar-img" />
+              <img src="/src/assets/apple.jpeg" alt="頭像" class="avatar-img" />
             </div>
           </div>
           <div class="card-info">
