@@ -446,6 +446,25 @@ body {
   @apply text-xl font-bold mb-5 flex items-center gap-3 relative;
 }
 
+/* 技能等級分組樣式 */
+.skill-level-section {
+  @apply mb-6 last:mb-0;
+}
+
+.skill-level-proficient , .skill-level-familiar {
+  @apply text-sm font-semibold mb-3 text-slate-600 uppercase tracking-wider border-l-4 pl-3;
+}
+
+.skill-level-proficient {
+  border-left-color: var(--primary-purple);
+  color: var(--primary-purple);
+}
+
+.skill-level-familiar {
+  border-left-color: #94a3b8;
+  color: #64748b;
+}
+
 .skills-list {
   @apply flex flex-wrap gap-2.5;
 }

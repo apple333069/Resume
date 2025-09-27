@@ -131,7 +131,6 @@
                     <span class="skill-tag primary">Element UI</span>
                     <span class="skill-tag primary">Tailwind CSS</span>
                     <span class="skill-tag primary">Scss</span>
-                    <span class="skill-tag primary">Mint UI</span>
                   </div>
                 </div>
               </div>
@@ -139,9 +138,12 @@
               <div class="skill-category">
                 <div class="skill-category-content">
                   <h4 class="skill-category-title">後端開發 Back End</h4>
-                  <div class="skills-list">
-                    <span class="skill-tag success">Node.js</span>
-                    <span class="skill-tag success">MySQL</span>
+                  <div class="skill-level-section">
+                    <h5 class="skill-level-familiar">接觸</h5>
+                    <div class="skills-list">
+                      <span class="skill-tag success">Node.js</span>
+                      <span class="skill-tag success">MySQL</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -149,12 +151,20 @@
               <div class="skill-category">
                 <div class="skill-category-content">
                   <h4 class="skill-category-title">開發工具 & 其他</h4>
-                  <div class="skills-list">
-                    <span class="skill-tag warning">Git</span>
-                    <span class="skill-tag warning">Docker</span>
-                    <span class="skill-tag warning">Postman</span>
-                    <span class="skill-tag warning">SEO</span>
-                    <span class="skill-tag warning">GA</span>
+                  <div class="skill-level-section">
+                    <h5 class="skill-level-proficient">熟悉</h5>
+                    <div class="skills-list">
+                      <span class="skill-tag warning">sourcetree (git)</span>
+                      <span class="skill-tag warning">Postman</span>
+                      <span class="skill-tag warning">SEO</span>
+                      <span class="skill-tag warning">GA</span>
+                    </div>
+                  </div>
+                  <div class="skill-level-section">
+                    <h5 class="skill-level-familiar">接觸</h5>
+                    <div class="skills-list">
+                      <span class="skill-tag warning">Docker</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -162,9 +172,12 @@
               <div class="skill-category">
                 <div class="skill-category-content">
                   <h4 class="skill-category-title">設計能力 Web Design</h4>
-                  <div class="skills-list">
-                    <span class="skill-tag info">Photoshop</span>
-                    <span class="skill-tag info">Figma</span>
+                  <div class="skill-level-section">
+                    <h5 class="skill-level-familiar">熟悉</h5>
+                    <div class="skills-list">
+                      <span class="skill-tag info">Photoshop</span>
+                      <span class="skill-tag info">Figma</span>
+                    </div>
                   </div>
                 </div>
               </div>
